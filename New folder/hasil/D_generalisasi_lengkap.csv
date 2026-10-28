@@ -1,0 +1,9 @@
+lokasi,model,konfigurasi,epoch,val_MAE_mean,val_MAE_std,test_MAE_mean,test_MAE_std,test_MAPE_mean,test_MAPE_std,natal_MAE_mean,natal_MAE_std
+Bandara Linate,ANN,acuan,99.667,8.75,0.013,8.808,0.699,10.331,0.998,14.367,0.53
+Bandara Linate,RNN,acuan,86.667,8.53,0.091,7.501,0.051,8.538,0.055,10.76,0.119
+Bandara Linate,LSTM,acuan,114.0,9.285,0.103,8.204,0.218,9.339,0.399,12.764,0.784
+Bandara Linate,GRU,acuan,103.0,9.248,0.136,7.535,0.184,8.371,0.351,11.428,0.887
+Bandara Linate,ANN,terbaik,65.333,8.427,0.212,7.914,0.489,8.847,0.837,13.984,1.675
+Bandara Linate,RNN,terbaik,62.0,8.53,0.158,8.474,1.054,9.807,1.161,11.129,0.78
+Bandara Linate,LSTM,terbaik,45.333,8.364,0.115,8.54,0.249,9.478,0.186,13.456,0.586
+Bandara Linate,GRU,terbaik,48.0,8.296,0.19,7.682,0.478,8.793,0.78,11.589,0.562
