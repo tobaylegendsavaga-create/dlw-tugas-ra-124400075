@@ -10,7 +10,7 @@ Tugas Workshop Deep Learning, Teknik Telekomunikasi ITERA.
 
 - **Kelas:** RA
 - **Lokasi kelompok:** 5, Bandara Linate (kotak 4489), dari digit terakhir NIM terkecil (124400075)
-- **Laporan:** [`laporan-latex/main.pdf`](laporan-latex/main.pdf) (sumber: `laporan-latex/main.tex`)
+- **Laporan:** [`laporan-latex/main.pdf`](/laporan-latex/main.pdf) (sumber: `laporan-latex/main.tex`)
 
 ## Cara Menjalankan
 
